@@ -1,5 +1,5 @@
 # CNN_team_project
-Basic Deep Learning Project in University
+Basic Deep Learning Project during the computer science course in the university
 
 교내 딥러닝 기본 프로젝트
 
